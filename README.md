@@ -1,1 +1,1 @@
-# uopeople-forum-backend-using-postgresql
+# forum-backend-using-postgresql
